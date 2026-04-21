@@ -87,6 +87,7 @@ valor_bruto_top5 = top_5_percent['area'].sum() / df_unique['area'].sum()
 
 ## 🚀 Tecnologias utilizadas
 
+* BigQuery Google
 * Python
 * Pandas
 * Jupyter Notebook
